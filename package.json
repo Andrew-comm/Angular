@@ -18,8 +18,12 @@
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
+    "browser-sync": "^2.27.10",
+    "clone-deep": "^4.0.1",
+    "lodash": "^4.17.21",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
+    "typed-assert": "^1.0.9",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
